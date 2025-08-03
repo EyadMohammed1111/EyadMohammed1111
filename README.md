@@ -1,29 +1,23 @@
 
 Hey 👋, I'm Ayad Mohammad Al-Mustaa!
-I’m a Full Stack Desktop Developer with a strong foundation in C++ programming. I’m passionate about building applications and exploring new technology stacks. I’m eager to learn and expand my knowledge in web and mobile development to align with the needs of the company I’m applying for.
+I am a Full Stack Desktop Developer with a solid foundation in C++ and C#. While I have a basic understanding of web development and Flutter, I am committed to learning and growing in these areas to contribute effectively to the company I will be joining. Currently, I have completed two full-stack desktop projects, incorporating C# and databases.
 
-🧐 More About Me:
-🔭 I’m currently exploring web development (Frontend & Backend) and mobile app development (Android).
+More About Me:
+🔭 I specialize in Desktop Development, and I am eager to expand my knowledge into Web Development and Mobile Development (Flutter, React).
 
-🌱 I’m always improving my skills and currently diving deeper into JavaScript, React, and Android development with Kotlin.
+🌱 Although I haven’t worked with web technologies or Flutter professionally yet, I’m fully ready to learn and adapt to these fields as per the company’s needs.
 
-👨🏻‍💻 Most of my work is showcased on my GitHub.
+👨🏻‍💻 Currently, I’ve worked on two complete projects using C# and databases, and I’m constantly honing my skills.
 
-💬 Feel free to ask me anything about web technologies, mobile development, or any tech-related topic — I’m happy to help.
+💬 Feel free to ask me anything about C++, C#, or Desktop Development — and I’m open to discussing web and mobile development as well.
 
-📫 You can reach me at [Your LinkedIn or Email].
+📫 You can contact me on LinkedIn or via email.
 
-🔨 Languages and Tools:
-C++ (Desktop Development)
+Skills and Technologies:
+Desktop Development: C++, C#, SQL Databases
 
-HTML & CSS (Web Development)
+Web Development (Learning): HTML, CSS, JavaScript, React
 
-JavaScript & React (Frontend Development)
+Mobile Development (Learning): Flutter, Dart
 
-Node.js (Backend Development)
-
-Kotlin (Android Development)
-
-Git (Version Control)
-
-Firebase (For mobile/web apps)
+Version Control: Git
